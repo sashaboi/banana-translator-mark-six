@@ -1,0 +1,17 @@
+textarea{
+    width: 80%;
+    display : block;
+    margin: auto;
+    padding: 1rem;
+}
+outputdiv{
+    width: 80%;
+    display : block;
+    margin: auto;
+    padding: 1rem;
+    border: black;
+}
+nav{
+    background-color: aquamarine;
+
+}
